@@ -92,7 +92,9 @@ Yokohama, Japan<br>
 <br>
 
 <iframe src="./hakkei-campus-map_en_2D_a1758072992948.pdf" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;"></iframe>
-
+<br>
+Oral sessions: Arts Research Building (14)<br>
+Poster Session &amp; Conference Mixer : Science Research Building (13)<br>
 <br>
 
 ## Local Organizing Committee
