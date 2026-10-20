@@ -4,19 +4,19 @@ remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
 plugins:
 - jekyll-remote-theme
 
-title: This is draft!
+title: 12th JTTCC
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
-copyright: "© 2024 {author}"
-description: "description description description description description description description description description description"
+copyright: "© 2026 {author}"
+description: "Webpage for the 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)"
 # favicon: "./favicon.svg"
 night_mode: "manual"
 brand_color: "#8FC231"
 
 defaults:
   home:
-    heading: "International Workshop on Theoretical and Computational Chemistry 2024"
-    subheading: "January XXth, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
+    heading: "The 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)"
+    subheading: "12th December 2026 at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan"
     banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
 
 banner:
