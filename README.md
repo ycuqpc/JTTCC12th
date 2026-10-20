@@ -92,7 +92,6 @@ Yokohama, Japan<br>
 <br>
 
 <iframe src="./hakkei-campus-map_en_2D_a1758072992948.pdf" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;"></iframe>
-<br>
 Oral sessions: Arts Research Building (14)<br>
 Poster Session &amp; Conference Mixer : Science Research Building (13)<br>
 <br>
@@ -107,3 +106,4 @@ Dean and Prof. Masanori TACHIKAWA (Graduate School of Nanobioscience, Yokohama C
 
 This workshop was organized by the [Graduate School of NanoBioScience (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), [Muraoka Group (Japan Women's University)](https://mcm-www.jwu.ac.jp/~muraoka/index.php), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/en/theme/2025/vol016.html), sponsored by [SPRING program (Yokohama City University)](https://www.yokohama-cu.ac.jp/spring/English/About_SPRING.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://ycuqpc.github.io/kibanS-25H00428/), and supported by the [International Affairs Office (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and [Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)](https://lambda.phys.tohoku.ac.jp/qm-science/en/).<br>
 <br>
+<img src="./fig1_acknowledgment_JTTCC12.png">
