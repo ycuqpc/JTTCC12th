@@ -91,7 +91,7 @@ Yokohama, Japan<br>
 
 <br>
 
-<img src="./hakkei-campus-map_en_2D_a1758072992948.pdf" alt="YCU hakkei campus map"/>
+<iframe src="./hakkei-campus-map_en_2D_a1758072992948.pdf" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;"></iframe>
 
 <br>
 
