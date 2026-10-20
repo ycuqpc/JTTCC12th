@@ -91,6 +91,10 @@ Yokohama, Japan<br>
 
 <br>
 
+<iframe src="https://www.yokohama-cu.ac.jp/english/about/hc1e5b0000000csy-att/a1758072992948.pdf" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;"></iframe>
+
+<br>
+
 ## Local Organizing Committee
 
 Dean and Prof. Masanori TACHIKAWA (Graduate School of Nanobioscience, Yokohama City University) and [Quantum Physical Chemistry Laboratory, Yokohama City University](https://www-user.yokohama-cu.ac.jp/~tachi/en/).
