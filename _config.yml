@@ -17,7 +17,8 @@ defaults:
   home:
     heading: "The 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)"
     subheading: "12th December 2026 at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan"
-    banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
+  # banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
+    banner: "./yokohama_nightview.jpg" # https://photock.jp/photo/night-view-of-yokohama-from-zou-no-hana-park-4 (Royalty-free)
 
 banner:
   # video: null             # Video banner source
