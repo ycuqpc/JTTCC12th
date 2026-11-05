@@ -11,7 +11,8 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvw
 • for a contributed poster presenter: 30 November 2026<br>
 • for all participants: 11 December 2026<br>
 <br>
-<b>Registration fees (please pay in cash at the registration desk on 12 Dec):</b><br>
+<b>Registration fees:</b><br>
+<i>The registration fee includes lunch, refreshments during coffee breaks, and snacks and beverages at the mixer. Please pay in cash at the registration desk on 12 Dec.</i><br>
 • General: 4,000 JPY<br>
 • Postdoc (young researcher): 2,000 JPY<br>
 • Student: 1,000 JPY<br>
