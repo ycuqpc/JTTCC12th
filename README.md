@@ -3,10 +3,20 @@
 
 # Registration
 
-| Date |  |
-| :--- | :--- |
-| ??th November 2026 | Deadline for Registration as a contributed poster presenter |
-| 11th December 2026 | Deadline for Online registration as a participant |
+Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvwz0DNBx)</b>.
+<b>We are now calling for contributed poster presenters.</b>
+<br>
+
+Registration Deadline<br>
+• for a contributed poster presenter: 30 November 2026<br>
+• for all participants: 11 December 2026<br>
+<br>
+Registration fees:<br>
+• General: 4,000 JPY<br>
+• Postdoc (young researcher): 2,000 JPY<br>
+• Student: 1,000 JPY<br>
+• Invited speaker: Free<br>
+<br>
 
 # Program
 
