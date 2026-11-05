@@ -1,5 +1,5 @@
 <b>The 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)</b> will be held on <b>Saturday, 12th December 2026</b> in an in-person form, at <b>Yokohama City University</b> (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers, and contributed poster presentations will be given by young researchers, especially by graduate students. We look forward to seeing you there. 
-<br>
+<br><br>
 
 # Registration
 
@@ -7,22 +7,23 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvw
 <b>We are now calling for contributed poster presenters.</b>
 <br>
 
-Registration Deadline<br>
+<b>Registration deadline</b><br>
 • for a contributed poster presenter: 30 November 2026<br>
 • for all participants: 11 December 2026<br>
 <br>
-Registration fees:<br>
+<b>Registration fees:</b><br>
 • General: 4,000 JPY<br>
 • Postdoc (young researcher): 2,000 JPY<br>
 • Student: 1,000 JPY<br>
 • Invited speaker: Free<br>
-<br>
+<br><br>
 
 # Program
 
-<br><b>Saturday, 12th December 2026</b><br>
+<b>Saturday, 12th December 2026</b><br>
 
 The timetable is to be determined. We will keep you posted.
+<br><br>
 
 <!--
 | Start | End   | Speaker | Title |
