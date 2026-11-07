@@ -16,7 +16,8 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvw
 • General: 4,000 JPY<br>
 • Postdoc (young researcher): 2,000 JPY<br>
 • Student: 1,000 JPY<br>
-• Invited speaker: Free<br>
+• Invited speaker <i>from Japan</i>: 4,000 JPY<br>
+• Invited speaker <i>from Thailand</i>: Free<br>
 <br><br>
 
 # Program
