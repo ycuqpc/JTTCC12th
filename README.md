@@ -357,7 +357,15 @@ The presenters with odd numbers will have poster presentations first half, and t
 
 # Venue
 
-### Oral Session
+### Oral Sessions &amp; Conference Mixer (Day 1)
+Room 118 (1F), Science Research Building<br>
+Kanazawa-Hakkei Campus, Yokohama City University<br>
+Yokohama, Japan<br>
+<br>
+横浜市立大学 (金沢八景キャンパス)<br>
+理学系研究棟1階　118室
+
+### Oral Sessions (Day2)
 Room 141 (Main conference room), Arts Research Building 1F<br>
 Kanazawa-Hakkei Campus, Yokohama City University<br>
 Yokohama, Japan<br>
@@ -365,7 +373,7 @@ Yokohama, Japan<br>
 横浜市立大学 (金沢八景キャンパス)<br>
 文科系研究棟1階　大会議室
 
-### Poster Session &amp; Conference Mixer
+### Poster Session &amp; Conference Mixer (Day 2)
 Entrance hall (1F), Science Research Building<br>
 Kanazawa-Hakkei Campus, Yokohama City University<br>
 Yokohama, Japan<br>
