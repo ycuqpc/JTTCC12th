@@ -1,4 +1,4 @@
-<b>The 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)</b> will be held on <b>Saturday, 12th December 2026</b> in an in-person form, at <b>Yokohama City University</b> (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers, and contributed poster presentations will be given by young researchers, especially by graduate students. We look forward to seeing you there. 
+<b>The 12th Japan-Thai workshop on Theoretical and Computational Chemistry (JTTCC12)</b> will be held on <b>11&ndash;12 December 2026</b> in an in-person form, at <b>Yokohama City University</b> (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers, and contributed poster presentations will be given by young researchers, especially by graduate students. We look forward to seeing you there. 
 <br><br>
 
 # Registration
@@ -22,10 +22,289 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvw
 
 # Program
 
-<b>Saturday, 12th December 2026</b><br>
+The timetable is still provisional, and is subject to change.<br>
 
-The timetable is to be determined. We will keep you posted.
+### Day 1 (Friday, 11 December 2026)<br>
+
+#### Opening Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 12:50 | 13:00 | **Welcome to JTTCC12 workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
+
+<!--
+<div style="text-align:left;">
+  <img src="./tachikawa1.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 1-1
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:00 | 13:25 | **Daisuke Yoshida** (Tohoku University, Japan)<br>Positron Binding and Annihilation in Molecules: Insights From First-Principles Calculations |
+| 13:25 | 13:50 | **Kaito Takahashi** (Thammasat University, Thailand)<br>Theoretical View of C-C Coupling on Graphyne: Orbitals, Electric Field and Surface State |
+| 13:50 | 14:15 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>Multiscale Computing of Supramolecular Motion |
+| 14:15 | 14:25 | **Coffee Break (10 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./yoshida.jpg" style="width:30%;">
+  <img src="./takahashi.jpg" style="width:30%;">
+  <img src="./kowit.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 1-2
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 14:25 | 14:50 | **Tokuhisa Kawawaki** (Yokohama City University, Japan)<br>Metal Clusters and Single-Atom Catalysts for Precise Control of Reaction Pathways |
+| 14:50 | 15:15 | **Thanthapatra Bunchuay** (Mahidol University, Thailand)<br>Molecular Recognition and Functional Translation through a Champion Supramolecular Platform for Critical Metal Recovery |
+| 15:15 | 15:40 | **Manussada Ratanasak** (University of Tsukuba, Japan)<br>Mechanistic Insights into Secondary Metal Promotion in Fe<sub>3</sub>O-Based MOF Catalysts for Enhanced CO<sub>2</sub> Hydrogenation to Formic Acid |
+| 15:40 | 15:50 | **Coffee Break (10 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./kawawaki.jpg" style="width:30%;">
+  <img src="./bunchuay.jpg" style="width:30%;">
+  <img src="./ratanasak.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 1-3
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 15:50 | 16:15 | **Seiji Mori** (Ibaraki University, Japan)<br>Computational Research Developed Through Academic Partnerships with Thailand and Other Countries |
+| 16:15 | 16:40 | **Kei Terayama** (Yokohama City University, Japan)<br>Exploring Cross-Domain Ideas for Materials Research with Large Language Models |
+| 16:40 | 17:05 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Understanding and Predicting Catalytic Properties with the Electronic Structure Decomposition Approach |
+| 17:05 | 17:15 | **Coffee Break (10 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./mori.jpg" style="width:30%;">
+  <img src="./terayama.jpg" style="width:30%;">
+  <img src="./rocabado.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 1-4
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:15 | 17:25 | **Thanapat Charoenkitkaset** (Chiang Mai University, Thailand)<br>Nuclear quantum effects on hydrogen bonds in protonated clusters of water, hydrogen sulfide, and hydrogen sulfide–water |
+| 17:25 | 17:35 | **Phitchayatida Promdee** (Ubon Ratchathani University, Thailand)<br>Unveiling the Role of Metal Dopants in NiOOH for Ethylene Glycol Electro oxidation toward Formate Production |
+| 17:35 | 17:45 | **Jiraprapa Kanlana** (Ubon Ratchathani University, Thailand)<br>First-Principles Study of Na Adsorption and Diffusion in MXene/MOF Heterostructures for Sodium-Ion Batteries |
+| 17:45 | 17:55 | **Chadapa Koonperm** (Ubon Ratchathani University, Thailand)<br>Design and Investigation of Integrative Catalytic Pairs on Biphenylene for Electrochemical Urea Synthesis from Carbon Dioxide and Nitrate; Density Functional Theory Study |
+| 17:55 | 18:05 | **Sutthiphan Vajirakaphan** (Chulalongkorn University, Thailand)<br>AEM Hybrid Electrolyser |
+| 18:05 | 18:15 | **Chirasuta Chitchong** (Chulalongkorn University, Thailand)<br>Waste-to-value electrooxidation coupled with hydrogen production |
+| 18:15 | 18:25 | **Thanathrid Wongchotsathit** (Chulalongkorn University, Thailand)<br>On-Demand Hydrogen Production via LED-Powered Electrolyte-Free Photocatalytic Water Splitting |
+
+<!--
+<div style="text-align:left;">
+  <img src="./charoenkitkaset.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./promdee.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./kanlana.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./koonperm.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./vajirakaphan.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./chitchong.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./wongchotsathit.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Conference Mixer (Day 1)
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 18:25 | 18:30 | **Group photo (Day 1)** |
+| 18:30 | 21:00 | **Conference Mixer** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./mixer11.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer12.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer13.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./mixer14.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer15.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer16.jpg" style="width:30%; margin-bottom: 5px;">
+</div>
+-->
+<br>
+
+
+### Day 2 (Saturday, 12 December 2026)<br>
+
+#### Opening Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 9:30 | 9:40 | **Opening Remarks**<br>by **Masaru Tachibana** (Vice president, Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
+| 9:40 | 9:50 | **Welcome speech**<br>by **Mitsunori Ikeguchi** (Vice president, Professor of Graduate School of Medical Life Science, Yokohama City University, Japan) |
+
+<!--
+<div style="text-align:left;">
+  <img src="./tachibana.jpg" style="width:30%;">
+  <img src="./ikeguchi.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 2-1
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+|  9:50 | 10:15 | **Yusuke Kanematsu** (Hiroshima University, Japan)<br><i>TBA</i> |
+| 10:15 | 10:40 | **Tatsuhiro Murakami** (Tokyo Metropolitan University, Japan)<br>Development of Machine Learning Interatomic Potentials for Deep Eutectic Solvents |
+| 10:40 | 11:00 | **Coffee Break (20 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./kanematsu.jpg" style="width:30%;">
+  <img src="./murakami.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 2-2
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 11:00 | 11:25 | **Taro Udagawa** (Gifu University, Japan)<br><i>TBA</i> |
+| 11:25 | 11:50 | **Kazuaki Kuwahata** (Institute of Science Tokyo, Japan)<br>Theoretical Study of Muoniated Molecules Using PIMD: Importance of Multidimensional Quantum Effects |
+| 11:50 | 12:15 | **Soungmin Bae** (Gifu University, Japan)<br>Nuclear Quantum Effects on Collective Lattice Dynamics and Negative Thermal Expansion |
+| 12:15 | 13:15 | **Lunch Break (60 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./udagawa.jpg" style="width:30%;">
+  <img src="./kuwahata.jpg" style="width:30%;">
+  <img src="./bae.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Oral Session 2-3
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:15 | 13:40 | **Tetsuya Taketsugu** (Hokkaido University, Japan)<br><i>TBA</i> |
+| 13:40 | 14:05 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Nuclear quantum effects on hydrogen bonds in protonated clusters of water, hydrogen sulfide, and hydrogen sulfide–water |
+| 14:05 | 14:30 | **Kohki Oka** (Tohoku University, Japan)<br>Organic Energy Materials towards Zero Carbon |
+| 14:30 | 14:55 | **Chanon Pornrungroj** (Chulalongkorn University, Thailand)<br><i>TBA</i> |
+| 14:55 | 15:15 | **Coffee Break (20 min.)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./taketsugu.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./nawee.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./oka.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./chanon.jpg" style="width:30%; margin-bottom: 5px;">
+</div>
+-->
+<br>
+
+#### Oral Session 2-4
+
+Chair: **TBA**
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 15:15 | 15:40 | **Siriporn Jungsuttiwong** (Ubon Rathchathani University, Thailand)<br>Bridging Experiment and Theory for Next-Generation Energy Conversion and Storage Materials: Toward Climate Solutions |
+| 15:40 | 16:05 | **Yuthana Tantirungrotechai** (Thammasat University, Thailand)<br><i>TBA</i> |
+| 16:05 | 16:30 | **Panichakorn Jaiyong** (Thammasat University, Thailand)<br><i>TBA</i> |
+| 16:30 | 16:55 | **Azusa Muraoka** (Japan Women’s University, Japan)<br><i>TBA</i> |
+
+<!--
+<div style="text-align:left;">
+  <img src="./siriporn.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./yuthana.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./panichakorn.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./muraoka.jpg" style="width:30%; margin-bottom: 5px;">
+</div>
+-->
+<br>
+
+#### Closing Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 16:55 | 17:05 | **Closing remarks**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
+| 17:05 | 17:10 | **Group photo (Day 2)** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./tachikawa2.jpg" style="width:30%;">
+</div>
+-->
+<br>
+
+#### Poster Session &amp; Conference Mixer (Day 2)
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:30 | 18:00 | **Poster session 1 (posters with odd numbers)** |
+| 18:00 | 18:30 | **Poster session 2 (posters with even numbers)** |
+| 18:30 | 21:00 | **Conference Mixer** |
+
+<!--
+<div style="text-align:left;">
+  <img src="./mixer21.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer22.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer23.jpg" style="width:30%; margin-bottom: 5px;">
+<br>
+  <img src="./mixer24.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer25.jpg" style="width:30%; margin-bottom: 5px;">
+  <img src="./mixer26.jpg" style="width:30%; margin-bottom: 5px;">
+</div>
+-->
+<br>
+<br>
+
+#### List of Posters
+
+| Poster No. |  |
+| :---: | :---- |
+| P1 | **Ken Inoue** (Yokohama City University, Japan)<br><i>TBA</i> |
+| P2 | **Saho Kobayashi** (Japan Women’s University, Japan)<br>Interpretable Machine Learning for Band Gap Prediction and Structural Analysis of 2D Perovskites |
+| P3 | **Saki Tanaka** (Japan Women’s University, Japan)<br><i>TBA</i> |
+| P4 | **Kanami Saito** (Japan Women's University, Japan)<br><i>TBA</i> |
+| P5 | **Masanari Natsume** (Yokohama City University, Japan)<br><i>TBA</i> |
+| P6 | **Thitipattra Buabanprom** (Thammasat University, Thailand)<br>MMolecular Dynamics Simulation of Polysorbate 20-based Niosomes as Drug Delivery Systems |
+| P7 | **Cao Tri Vu** (Thammasat University, Thailand)<br>Molecular Dynamics-Guided Rational Engineering of Cyan Fluorescent Proteins |
+| P8 | **Watcharin Kumaeum** (Thammasat University, Thailand)<br><i>TBA</i> |
+| P9 | **Chinnipha Wannaphan** (Thammasat University, Thailand)<br>Virtual Screening of Bioactive Compounds from Thai Mushrooms as Potential ATG4B Inhibitors |
+| P10 | **Nanami Suzuki** (Japan Women's University, Japan)<br><i>TBA</i> |
+| P11 | **Yachen Zhao** (Yokohama City University, Japan)<br>Comprehensive band-gap study of In<sub>x</sub>Ga<sub>1−x</sub>N based on density functional theory |
+
 <br><br>
+
+
+
 
 <!--
 | Start | End   | Speaker | Title |
