@@ -12,7 +12,7 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/r/iKvw
 • for all participants: 11 December 2026<br>
 <br>
 <b>Registration fees:</b><br>
-<i>The registration fee includes lunch, refreshments during coffee breaks, and snacks and beverages at the mixer. Please pay in cash at the registration desk on 12 Dec.</i><br>
+<i>The registration fee includes lunch (Day 2), refreshments during coffee breaks, and snacks and beverages at the mixer. Please pay in cash at the registration desk on 12 Dec.</i><br>
 • General: 4,000 JPY<br>
 • Postdoc (young researcher): 2,000 JPY<br>
 • Student: 1,000 JPY<br>
@@ -30,7 +30,7 @@ The timetable is still provisional, and is subject to change.<br>
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 12:50 | 13:00 | **Welcome to JTTCC12 workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
+| 12:50 | 13:00 | **Welcome to JTTCC12 Workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
 
 <!--
 <div style="text-align:left;">
@@ -105,13 +105,14 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:15 | 17:25 | **Thanapat Charoenkitkaset** (Chiang Mai University, Thailand)<br>Nuclear quantum effects on hydrogen bonds in protonated clusters of water, hydrogen sulfide, and hydrogen sulfide–water |
-| 17:25 | 17:35 | **Phitchayatida Promdee** (Ubon Ratchathani University, Thailand)<br>Unveiling the Role of Metal Dopants in NiOOH for Ethylene Glycol Electro oxidation toward Formate Production |
+| 17:15 | 17:25 | **Thanapat Charoenkitkaset** (Chiang Mai University, Thailand)<br>Single Benzene Fluorophores: Computational Approach Towards Compact Near-Infrared Dyes for Biosensing and Bioimaging |
+| 17:25 | 17:35 | **Phitchayatida Promdee** (Ubon Ratchathani University, Thailand)<br>Unveiling the Role of Metal Dopants in NiOOH for Ethylene Glycol Electrooxidation Toward Formate Production |
 | 17:35 | 17:45 | **Jiraprapa Kanlana** (Ubon Ratchathani University, Thailand)<br>First-Principles Study of Na Adsorption and Diffusion in MXene/MOF Heterostructures for Sodium-Ion Batteries |
 | 17:45 | 17:55 | **Chadapa Koonperm** (Ubon Ratchathani University, Thailand)<br>Design and Investigation of Integrative Catalytic Pairs on Biphenylene for Electrochemical Urea Synthesis from Carbon Dioxide and Nitrate; Density Functional Theory Study |
 | 17:55 | 18:05 | **Sutthiphan Vajirakaphan** (Chulalongkorn University, Thailand)<br>AEM Hybrid Electrolyser |
-| 18:05 | 18:15 | **Chirasuta Chitchong** (Chulalongkorn University, Thailand)<br>Waste-to-value electrooxidation coupled with hydrogen production |
+| 18:05 | 18:15 | **Chirasuta Chitchong** (Chulalongkorn University, Thailand)<br>Waste-to-Value Electrooxidation Coupled with Hydrogen Production |
 | 18:15 | 18:25 | **Thanathrid Wongchotsathit** (Chulalongkorn University, Thailand)<br>On-Demand Hydrogen Production via LED-Powered Electrolyte-Free Photocatalytic Water Splitting |
+| 18:25 | 18:35 | **Addisan Leungmekul** (Thammasat University, Thailand)<br>Computational Analysis of Gas Phase Oxygen Binding in Positively Charged 3<i>d</i> Transition Metal with Carbon Dioxide |
 
 <!--
 <div style="text-align:left;">
@@ -132,8 +133,8 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 18:25 | 18:30 | **Group photo (Day 1)** |
-| 18:30 | 21:00 | **Conference Mixer** |
+| 18:35 | 18:40 | **Group Photo (Day 1)** |
+| 18:40 | 21:00 | **Conference Mixer** |
 
 <!--
 <div style="text-align:left;">
@@ -156,7 +157,7 @@ Chair: **TBA**
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 9:30 | 9:40 | **Opening Remarks**<br>by **Masaru Tachibana** (Vice president, Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
-| 9:40 | 9:50 | **Welcome speech**<br>by **Mitsunori Ikeguchi** (Vice president, Professor of Graduate School of Medical Life Science, Yokohama City University, Japan) |
+| 9:40 | 9:50 | **Welcome Speech**<br>by **Mitsunori Ikeguchi** (Vice president, Professor of Graduate School of Medical Life Science, Yokohama City University, Japan) |
 
 <!--
 <div style="text-align:left;">
@@ -211,8 +212,8 @@ Chair: **TBA**
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 13:15 | 13:40 | **Tetsuya Taketsugu** (Hokkaido University, Japan)<br>Exploring Chemical Reactions: From Reaction Pathways to Molecular Dynamics |
-| 13:40 | 14:05 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Nuclear quantum effects on hydrogen bonds in protonated clusters of water, hydrogen sulfide, and hydrogen sulfide–water |
-| 14:05 | 14:30 | **Kohki Oka** (Tohoku University, Japan)<br>Organic Energy Materials towards Zero Carbon |
+| 13:40 | 14:05 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Nuclear Quantum Effects on Hydrogen Bonds in Protonated Clusters of Water, Hydrogen Sulfide, and Hydrogen Sulfide–Water |
+| 14:05 | 14:30 | **Kohki Oka** (Tohoku University, Japan)<br>Organic Energy Materials Towards Zero Carbon |
 | 14:30 | 14:55 | **Chanon Pornrungroj** (Chulalongkorn University, Thailand)<br><i>TBA</i> |
 | 14:55 | 15:15 | **Coffee Break (20 min.)** |
 
@@ -253,8 +254,8 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 16:55 | 17:05 | **Closing remarks**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
-| 17:05 | 17:10 | **Group photo (Day 2)** |
+| 16:55 | 17:05 | **Closing Remarks**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
+| 17:05 | 17:10 | **Group Photo (Day 2)** |
 
 <!--
 <div style="text-align:left;">
@@ -267,8 +268,8 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:30 | 18:00 | **Poster session 1 (posters with odd numbers)** |
-| 18:00 | 18:30 | **Poster session 2 (posters with even numbers)** |
+| 17:30 | 18:00 | **Poster Session 1** (posters with odd numbers) |
+| 18:00 | 18:30 | **Poster Session 2** (posters with even numbers) |
 | 18:30 | 21:00 | **Conference Mixer** |
 
 <!--
@@ -299,7 +300,7 @@ Chair: **TBA**
 | P8 | **Watcharin Kumaeum** (Thammasat University, Thailand)<br><i>TBA</i> |
 | P9 | **Chinnipha Wannaphan** (Thammasat University, Thailand)<br>Virtual Screening of Bioactive Compounds from Thai Mushrooms as Potential ATG4B Inhibitors |
 | P10 | **Nanami Suzuki** (Japan Women's University, Japan)<br><i>TBA</i> |
-| P11 | **Yachen Zhao** (Yokohama City University, Japan)<br>Comprehensive band-gap study of In<sub>x</sub>Ga<sub>1−x</sub>N based on density functional theory |
+| P11 | **Yachen Zhao** (Yokohama City University, Japan)<br>Comprehensive Band-Gap Study of In<sub>x</sub>Ga<sub>1−x</sub>N Based on Density Functional Theory |
 
 <br><br>
 
@@ -392,8 +393,8 @@ Yokohama, Japan<br>
 <br>
 
 <iframe src="./hakkei-campus-map_en_2D_a1758072992948.pdf" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;"></iframe>
-Oral sessions: Arts Research Building (14)<br>
-Poster Session &amp; Conference Mixer : Science Research Building (13)<br>
+Oral sessions (Day 2): Arts Research Building (14)<br>
+Oral sessions (Day 1), Poster Session &amp; Conference Mixer : Science Research Building (13)<br>
 <br>
 
 ## Local Organizing Committee
