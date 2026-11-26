@@ -36,8 +36,8 @@ The timetable is still provisional, and is subject to change.<br>
 <div style="text-align:left;">
   <img src="./tachikawa1.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 1-1
 
@@ -56,8 +56,8 @@ Chair: **TBA**
   <img src="./takahashi.jpg" style="width:30%;">
   <img src="./kowit.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 1-2
 
@@ -76,8 +76,8 @@ Chair: **TBA**
   <img src="./bunchuay.jpg" style="width:30%;">
   <img src="./ratanasak.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 1-3
 
@@ -96,8 +96,8 @@ Chair: **TBA**
   <img src="./terayama.jpg" style="width:30%;">
   <img src="./rocabado.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 1-4
 
@@ -125,8 +125,8 @@ Chair: **TBA**
 <br>
   <img src="./wongchotsathit.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Conference Mixer (Day 1)
 
@@ -145,8 +145,8 @@ Chair: **TBA**
   <img src="./mixer15.jpg" style="width:30%; margin-bottom: 5px;">
   <img src="./mixer16.jpg" style="width:30%; margin-bottom: 5px;">
 </div>
--->
 <br>
+-->
 
 
 ### Day 2 (Saturday, 12 December 2026)<br>
@@ -163,8 +163,8 @@ Chair: **TBA**
   <img src="./tachibana.jpg" style="width:30%;">
   <img src="./ikeguchi.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 2-1
 
@@ -181,8 +181,8 @@ Chair: **TBA**
   <img src="./kanematsu.jpg" style="width:30%;">
   <img src="./murakami.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 2-2
 
@@ -201,8 +201,8 @@ Chair: **TBA**
   <img src="./kuwahata.jpg" style="width:30%;">
   <img src="./bae.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 2-3
 
@@ -210,7 +210,7 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 13:15 | 13:40 | **Tetsuya Taketsugu** (Hokkaido University, Japan)<br><i>TBA</i> |
+| 13:15 | 13:40 | **Tetsuya Taketsugu** (Hokkaido University, Japan)<br>Exploring Chemical Reactions: From Reaction Pathways to Molecular Dynamics |
 | 13:40 | 14:05 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Nuclear quantum effects on hydrogen bonds in protonated clusters of water, hydrogen sulfide, and hydrogen sulfide–water |
 | 14:05 | 14:30 | **Kohki Oka** (Tohoku University, Japan)<br>Organic Energy Materials towards Zero Carbon |
 | 14:30 | 14:55 | **Chanon Pornrungroj** (Chulalongkorn University, Thailand)<br><i>TBA</i> |
@@ -224,8 +224,8 @@ Chair: **TBA**
   <img src="./oka.jpg" style="width:30%; margin-bottom: 5px;">
   <img src="./chanon.jpg" style="width:30%; margin-bottom: 5px;">
 </div>
--->
 <br>
+-->
 
 #### Oral Session 2-4
 
@@ -246,8 +246,8 @@ Chair: **TBA**
   <img src="./panichakorn.jpg" style="width:30%; margin-bottom: 5px;">
   <img src="./muraoka.jpg" style="width:30%; margin-bottom: 5px;">
 </div>
--->
 <br>
+-->
 
 #### Closing Remarks
 
@@ -260,8 +260,8 @@ Chair: **TBA**
 <div style="text-align:left;">
   <img src="./tachikawa2.jpg" style="width:30%;">
 </div>
--->
 <br>
+-->
 
 #### Poster Session &amp; Conference Mixer (Day 2)
 
@@ -281,8 +281,8 @@ Chair: **TBA**
   <img src="./mixer25.jpg" style="width:30%; margin-bottom: 5px;">
   <img src="./mixer26.jpg" style="width:30%; margin-bottom: 5px;">
 </div>
--->
 <br>
+-->
 <br>
 
 #### List of Posters
