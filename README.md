@@ -235,7 +235,7 @@ Chair: **TBA**
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 15:15 | 15:40 | **Siriporn Jungsuttiwong** (Ubon Rathchathani University, Thailand)<br>Bridging Experiment and Theory for Next-Generation Energy Conversion and Storage Materials: Toward Climate Solutions |
-| 15:40 | 16:05 | **Yuthana Tantirungrotechai** (Thammasat University, Thailand)<br><i>TBA</i> |
+| 15:40 | 16:05 | **Yuthana Tantirungrotechai** (Thammasat University, Thailand)<br>Bridging Experiment and Simulation in Aptamer Design: Structure, Dynamics, and Interactions |
 | 16:05 | 16:30 | **Panichakorn Jaiyong** (Thammasat University, Thailand)<br><i>TBA</i> |
 | 16:30 | 16:55 | **Azusa Muraoka** (Japan Women’s University, Japan)<br><i>TBA</i> |
 
