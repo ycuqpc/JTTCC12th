@@ -173,7 +173,7 @@ Chair: **TBA**
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-|  9:50 | 10:15 | **Yusuke Kanematsu** (Hiroshima University, Japan)<br><i>TBA</i> |
+|  9:50 | 10:15 | **Yusuke Kanematsu** (Hiroshima University, Japan)<br>Theoretical Analysis of Inverse H/D Kinetic Isotopes Effect in H-bonded Heme Oxo Complex |
 | 10:15 | 10:40 | **Tatsuhiro Murakami** (Tokyo Metropolitan University, Japan)<br>Development of Machine Learning Interatomic Potentials for Deep Eutectic Solvents |
 | 10:40 | 11:00 | **Coffee Break (20 min.)** |
 
