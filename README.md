@@ -301,6 +301,7 @@ Chair: **TBA**
 | P9 | **Chinnipha Wannaphan** (Thammasat University, Thailand)<br>Virtual Screening of Bioactive Compounds from Thai Mushrooms as Potential ATG4B Inhibitors |
 | P10 | **Nanami Suzuki** (Japan Women's University, Japan)<br><i>TBA</i> |
 | P11 | **Yachen Zhao** (Yokohama City University, Japan)<br>Comprehensive Band-Gap Study of In<sub>x</sub>Ga<sub>1−x</sub>N Based on Density Functional Theory |
+| P12 | **Chihiro Yamaguchi** (Yokohama City University, Japan)<br><i>TBA</i> |
 
 <br><br>
 
